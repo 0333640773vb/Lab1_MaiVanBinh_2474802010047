@@ -18,4 +18,4 @@ function login(username, password) {
 }
 
 module.exports = { login };
-//login
+// Updated login logic v1.1
